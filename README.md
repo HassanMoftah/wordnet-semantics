@@ -7,7 +7,7 @@ it takes two input files.
 first :- synsets file which contains the nouns in each synsets,may noun be found in several synsets.
 
 
-second :- hypernyms file which contains the relations between these synsets "each line has at the firstsynset number and it's parents next to it".
+second :- hypernyms file which contains the relations between these synsets "each line has at the first synset number and it's parents next to it".
 
 -i had used trie data structure to store  each noun and it's  corresponding  synsets numbers. 
 
